@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\AreaOfShapes\\AreaOfShapes.csproj",
-      "projectName": "AreaOfShapes",
-      "projectPath": "C:\\Projects\\AreaOfShapes\\AreaOfShapes.csproj",
+      "projectUniqueName": "C:\\Projects\\WhileLoops\\WhileLoops.csproj",
+      "projectName": "WhileLoops",
+      "projectPath": "C:\\Projects\\WhileLoops\\WhileLoops.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\AreaOfShapes\\obj\\",
+      "outputPath": "C:\\Projects\\WhileLoops\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",

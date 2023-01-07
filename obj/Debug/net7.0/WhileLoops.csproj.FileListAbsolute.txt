@@ -1,0 +1,15 @@
+C:\Projects\WhileLoops\bin\Debug\net7.0\WhileLoops.exe
+C:\Projects\WhileLoops\bin\Debug\net7.0\WhileLoops.deps.json
+C:\Projects\WhileLoops\bin\Debug\net7.0\WhileLoops.runtimeconfig.json
+C:\Projects\WhileLoops\bin\Debug\net7.0\WhileLoops.dll
+C:\Projects\WhileLoops\bin\Debug\net7.0\WhileLoops.pdb
+C:\Projects\WhileLoops\obj\Debug\net7.0\WhileLoops.csproj.AssemblyReference.cache
+C:\Projects\WhileLoops\obj\Debug\net7.0\WhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\WhileLoops\obj\Debug\net7.0\WhileLoops.AssemblyInfoInputs.cache
+C:\Projects\WhileLoops\obj\Debug\net7.0\WhileLoops.AssemblyInfo.cs
+C:\Projects\WhileLoops\obj\Debug\net7.0\WhileLoops.csproj.CoreCompileInputs.cache
+C:\Projects\WhileLoops\obj\Debug\net7.0\WhileLoops.dll
+C:\Projects\WhileLoops\obj\Debug\net7.0\refint\WhileLoops.dll
+C:\Projects\WhileLoops\obj\Debug\net7.0\WhileLoops.pdb
+C:\Projects\WhileLoops\obj\Debug\net7.0\WhileLoops.genruntimeconfig.cache
+C:\Projects\WhileLoops\obj\Debug\net7.0\ref\WhileLoops.dll

@@ -1,4 +1,5 @@
-﻿//This is a programe to compute the areas of shapes
+﻿using System;
+using WhileLoops;
 
 int option;
 Shape shape = new Shape();
@@ -9,9 +10,12 @@ const double pi =  3.142;
 double radius;
 double hieght;
 double bases;
+bool cont = true;
+string ans = string.Empty;
 
-
-Console.Clear();
+while (cont == true){
+  
+  Console.Clear();
 Console.WriteLine("***********************************");
 Console.WriteLine("Programe to compute area of shapes");
 Console.WriteLine("***********************************");
@@ -70,55 +74,24 @@ switch (option)
 
 }
 
+Console.WriteLine();  
+Console.WriteLine();  
+   Console.Write("Do you want to continue computing area of shapes: (Yes)Y /(No)N: ");
+    ans = Console.ReadLine();
+    if (ans.ToLower() == "yes" || ans.ToLower() == "y"){
+        cont = true;    
+    }
+    else {
+        cont = false;
+    }
+    
+}
+
 
 //Area area = new Area();
 //double answer = area.Rectangle(2,2);
 
 
-
-
-
-public class Shape{
-    
-    public double CircleArea(double radius, double pi)
-    {
-
-        double aCircle = 0;
-        aCircle = pi * Math.Pow(radius, 2) ;
-        return aCircle;
-    }
-
-    public double SquareArea(double length)
-    {
-
-        double aSquare = 0;
-        aSquare = Math.Pow(length, 2);
-        return aSquare;
-    }
-    
-    public double TriangleArea(double h, double b)
-    {
-        double hieght = h;
-        double bases = b;
-        double aTriangle = 0;
-
-        aTriangle = (bases * hieght)/2;
-   
-        return aTriangle;
-    }
-
-    public double RectangleArea(double l, double b)
-    {
-        double length = l;
-        double breadth = b;
-        double aRectangle = 0;
-
-        aRectangle = length * breadth;
-
-        return aRectangle;
-    }
-
-}
 
 
 
