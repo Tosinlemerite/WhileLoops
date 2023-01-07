@@ -1,0 +1,15 @@
+C:\Projects\AreaOfShapes\bin\Debug\net7.0\AreaOfShapes.exe
+C:\Projects\AreaOfShapes\bin\Debug\net7.0\AreaOfShapes.deps.json
+C:\Projects\AreaOfShapes\bin\Debug\net7.0\AreaOfShapes.runtimeconfig.json
+C:\Projects\AreaOfShapes\bin\Debug\net7.0\AreaOfShapes.dll
+C:\Projects\AreaOfShapes\bin\Debug\net7.0\AreaOfShapes.pdb
+C:\Projects\AreaOfShapes\obj\Debug\net7.0\AreaOfShapes.csproj.AssemblyReference.cache
+C:\Projects\AreaOfShapes\obj\Debug\net7.0\AreaOfShapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\AreaOfShapes\obj\Debug\net7.0\AreaOfShapes.AssemblyInfoInputs.cache
+C:\Projects\AreaOfShapes\obj\Debug\net7.0\AreaOfShapes.AssemblyInfo.cs
+C:\Projects\AreaOfShapes\obj\Debug\net7.0\AreaOfShapes.csproj.CoreCompileInputs.cache
+C:\Projects\AreaOfShapes\obj\Debug\net7.0\AreaOfShapes.dll
+C:\Projects\AreaOfShapes\obj\Debug\net7.0\refint\AreaOfShapes.dll
+C:\Projects\AreaOfShapes\obj\Debug\net7.0\AreaOfShapes.pdb
+C:\Projects\AreaOfShapes\obj\Debug\net7.0\AreaOfShapes.genruntimeconfig.cache
+C:\Projects\AreaOfShapes\obj\Debug\net7.0\ref\AreaOfShapes.dll
