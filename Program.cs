@@ -17,6 +17,7 @@ while (cont == true)
 {
 
   Console.Clear();
+  
   Console.WriteLine("***********************************");
   Console.WriteLine("Programe to compute area of shapes");
   Console.WriteLine("***********************************");
@@ -24,6 +25,7 @@ while (cont == true)
   Console.WriteLine("Shape Area - Select a shape:");
   Console.WriteLine();
   //select options
+  Console.Beep();
   Console.WriteLine("1. Area of Circle");
   Console.WriteLine("2. Area of Rectangle");
   Console.WriteLine("3. Area of Triangle");
@@ -34,7 +36,7 @@ while (cont == true)
   Console.Write("Option: ");
   option = Convert.ToInt32(Console.ReadLine());
   Console.WriteLine();
-
+  Console.Beep();
   switch (option)
   {
     //method compute area of circle
@@ -86,13 +88,15 @@ while (cont == true)
       Console.WriteLine();
       Console.WriteLine("Thank you for using this app.");
       Console.WriteLine();
+      Console.Beep();
       Environment.Exit(0);
       break;
 
   }
 
   Console.WriteLine();
-  Console.Write("Do you want to continue computing area of shapes: (Yes) Y /(No) N: ");
+  Console.Beep();
+  Console.Write("Do you want to continue computing area of shapes: Yes(Y) | No(N): ");
   ans = Console.ReadLine();
   if (ans.ToLower() == "yes" || ans.ToLower() == "y")
   {
@@ -105,6 +109,7 @@ while (cont == true)
 
 }
 Console.WriteLine();
+Console.Beep();
 Console.WriteLine("Thank you for using this app.");
 
 //Area area = new Area();
