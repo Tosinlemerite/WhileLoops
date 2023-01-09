@@ -1,0 +1,15 @@
+C:\Projects\whileloops\bin\Debug\net7.0\whileloops.exe
+C:\Projects\whileloops\bin\Debug\net7.0\whileloops.deps.json
+C:\Projects\whileloops\bin\Debug\net7.0\whileloops.runtimeconfig.json
+C:\Projects\whileloops\bin\Debug\net7.0\whileloops.dll
+C:\Projects\whileloops\bin\Debug\net7.0\whileloops.pdb
+C:\Projects\whileloops\obj\Debug\net7.0\whileloops.csproj.AssemblyReference.cache
+C:\Projects\whileloops\obj\Debug\net7.0\whileloops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\whileloops\obj\Debug\net7.0\whileloops.AssemblyInfoInputs.cache
+C:\Projects\whileloops\obj\Debug\net7.0\whileloops.AssemblyInfo.cs
+C:\Projects\whileloops\obj\Debug\net7.0\whileloops.csproj.CoreCompileInputs.cache
+C:\Projects\whileloops\obj\Debug\net7.0\whileloops.dll
+C:\Projects\whileloops\obj\Debug\net7.0\refint\whileloops.dll
+C:\Projects\whileloops\obj\Debug\net7.0\whileloops.pdb
+C:\Projects\whileloops\obj\Debug\net7.0\whileloops.genruntimeconfig.cache
+C:\Projects\whileloops\obj\Debug\net7.0\ref\whileloops.dll
